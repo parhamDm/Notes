@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">یادداشت های من</string>
+    <string name="title">عنوان</string>
+    <string name="text">متن</string>
+    <string name="DONE"> انجام شد</string>
+</resources>
